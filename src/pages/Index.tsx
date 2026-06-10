@@ -26,6 +26,26 @@ const CARDS = [
     image: "https://cdn.poehali.dev/projects/ade8ee66-2862-4423-855f-c733c837cee6/bucket/27e39b09-9987-4cc4-9137-0e06142ded04.jpg",
     title: "Всё потеряешь",
   },
+  {
+    id: 6,
+    image: "https://cdn.poehali.dev/projects/e6919357-e05c-48a9-a4cd-6e83bb926f6f/bucket/7faac40b-6c11-45a3-9fcf-514585b97c96.jpg",
+    title: "Три дня и всё будет",
+  },
+  {
+    id: 7,
+    image: "https://cdn.poehali.dev/projects/e6919357-e05c-48a9-a4cd-6e83bb926f6f/bucket/229a9f6e-7a84-458b-9826-dc8801a29923.jpg",
+    title: "Да Вея ограбишь",
+  },
+  {
+    id: 8,
+    image: "https://cdn.poehali.dev/projects/e6919357-e05c-48a9-a4cd-6e83bb926f6f/bucket/9e195c0a-cc9b-4480-89e7-23d9795fcded.jpg",
+    title: "Всё получишь, но ждать придётся долго",
+  },
+  {
+    id: 9,
+    image: "https://cdn.poehali.dev/projects/e6919357-e05c-48a9-a4cd-6e83bb926f6f/bucket/19eea8d7-bffa-4503-9c5c-53c7be8046ad.jpg",
+    title: "Удача на твоей стороне",
+  },
 ];
 
 type WebkitWindow = Window & { webkitAudioContext?: typeof AudioContext };
